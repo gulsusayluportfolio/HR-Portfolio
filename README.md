@@ -18,15 +18,3 @@ Hi, I am **Gulsu Saylu**. I am a passionate HR professional specialized in full-
 
 ---
 *Contact: gulsusaylu@gmail.com*
-## 📈 Recruitment Process Flow
-```mermaid
-graph TD
-    A[Application] --> B[Sourcing & Screening]
-    B --> C[Hiring Manager Interview]
-    C --> D[Cultural & Team Interview]
-    D --> E[Assessment]
-    E --> F[Offer & Reference Check]
-    F --> G[Onboarding]
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#bbf,stroke:#333,stroke-width:2px
