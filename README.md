@@ -1,20 +1,20 @@
 # Talent Acquisition & HR Operations Portfolio
 
-Merhaba, ben **Gulsu Saylu**. Profesyonel işe alım süreçleri ve İK operasyonları yönetimi konusunda tutkulu bir İK profesyoneliyim.
+Hi, I am **Gulsu Saylu**. I am a passionate HR professional specialized in full-cycle recruitment and HR operations management.
 
-## 🚀 Uzmanlık Alanlarım
-* **Full-Cycle Recruitment:** Sourcing'den onboarding'e kadar uçtan uca süreç yönetimi.
-* **HR Operations:** HRIS (Nmbrs, WorkDay, Bamboo HR) sistemlerinde veri doğruluğu ve raporlama.
-* **Process Optimization:** İşe alım ve operasyonel iş akışlarını hızlandırma.
+## 🚀 Areas of Expertise
+* **Full-Cycle Recruitment:** End-to-end recruitment process management from sourcing to onboarding.
+* **HR Operations:** Ensuring data integrity and accuracy in HRIS (Nmbrs, WorkDay, Bamboo HR) platforms.
+* **Process Optimization:** Streamlining recruitment and operational workflows to improve efficiency.
 
-## 📂 Öne Çıkan Yetkinlikler
-* **Yüksek Hacimli İşe Alım:** Hızlı büyüyen (hyper-growth) ortamlarda etkili mülakat koordinasyonu ve aday deneyimi yönetimi.
-* **Veri Odaklılık:** ATS ve raporlama araçlarıyla süreçlerin verimliliğini ölçme ve iyileştirme.
-* **Paydaş Yönetimi:** Hiring Manager'larla stratejik iş birliği ve süreç koordinasyonu.
+## 📂 Key Competencies
+* **High-Volume Recruitment:** Managing fast-paced interview scheduling and candidate pipelines in hyper-growth environments.
+* **Data-Driven Approach:** Utilizing ATS and reporting tools to measure and optimize process performance.
+* **Stakeholder Management:** Strategic partnership with Hiring Managers to align staffing needs and accelerate hiring.
 
-## 🛠 Kullanılan Araçlar
+## 🛠 Tools & Technologies
 * **HRIS/ATS:** Nmbrs, WorkDay, Bamboo HR.
-* **Office & Analiz:** MS Office Suite, Google Workspace, Data Analytics.
+* **Office & Analysis:** MS Office Suite, Google Workspace, Data Analytics.
 
 ---
-*İletişim: gulsusaylu@gmail.com*
+*Contact: gulsusaylu@gmail.com*
